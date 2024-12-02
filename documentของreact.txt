@@ -1,0 +1,3 @@
+เนื่องจาก document ทาง react ได้ update ใหม่ไปเยอะมากปัจจุบันทาง website ทาง react เปลี่ยนการสร้างโปรเจคไปเป็น npx create-next-app@latest
+next เป็น Full stack ของทาง React
+backend ผมใช้ NodeJs ปกติ
